@@ -1,0 +1,28 @@
+{
+  "txVersion": "1",
+  "txId": "e360c3c77f43d53cbbf3dc8064c888a10310930a6427770ce4c8ead388edf17c",
+  "outputIndex": 2,
+  "bsqAmount": 20000000,
+  "btcAmount": 0,
+  "height": 1119668,
+  "isVerified": true,
+  "burntFee": 0,
+  "address": "mx3xo655TAjC5r7ScuVEU8b6FMLomnKSeX",
+  "scriptPubKey": {
+    "addresses": [
+      "mx3xo655TAjC5r7ScuVEU8b6FMLomnKSeX"
+    ],
+    "asm": "OP_DUP OP_HASH160 b55f534218f1839f930597f80f6317fe06c9b554 OP_EQUALVERIFY OP_CHECKSIG",
+    "hex": "76a914b55f534218f1839f930597f80f6317fe06c9b55488ac",
+    "reqSigs": 1,
+    "type": "ScriptTypes(name\u003dpubkeyhash)"
+  },
+  "spentInfo": {
+    "height": 1119672,
+    "inputIndex": 0,
+    "txId": "6af8290283cd4af1f9b327d09fa12fe55e16b220ee83f18effba7a6ed5e06520"
+  },
+  "time": 1492972566000,
+  "txType": "GENESIS",
+  "txTypeDisplayString": "Genesis"
+}

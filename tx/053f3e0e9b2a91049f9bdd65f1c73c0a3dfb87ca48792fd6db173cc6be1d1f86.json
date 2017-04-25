@@ -1,0 +1,98 @@
+{
+  "txVersion": "1",
+  "id": "053f3e0e9b2a91049f9bdd65f1c73c0a3dfb87ca48792fd6db173cc6be1d1f86",
+  "blockHeight": 1119793,
+  "blockHash": "00000000ff68000442f49059945640d89cde58995c14f05771b50c91f0d48433",
+  "time": 1493058071000,
+  "inputs": [
+    {
+      "spendingTxOutputIndex": 1,
+      "spendingTxId": "ae3c1227f7374b2b68be52c2c6fe9d685a02ab6da54d28365c2a3ea4f3f42e42",
+      "bsqAmount": 9963000,
+      "isVerified": true,
+      "address": "mrk5MQW4vHPYNXVnDMfAAY1q4WVpRpv9Ay",
+      "time": 1493058071000
+    },
+    {
+      "spendingTxOutputIndex": 0,
+      "spendingTxId": "5337dcea1957077447c5c46597231a584fba0b435d336ac1531778e5179a9fe3",
+      "bsqAmount": 0,
+      "isVerified": false,
+      "time": 1493058071000
+    }
+  ],
+  "outputs": [
+    {
+      "txVersion": "1",
+      "txId": "053f3e0e9b2a91049f9bdd65f1c73c0a3dfb87ca48792fd6db173cc6be1d1f86",
+      "outputIndex": 0,
+      "bsqAmount": 4000,
+      "btcAmount": 0,
+      "height": 1119793,
+      "isVerified": true,
+      "burntFee": 0,
+      "address": "mmZ1TYFxkhnjF5zJemRsa3aoMn3A9oCJ9h",
+      "scriptPubKey": {
+        "addresses": [
+          "mmZ1TYFxkhnjF5zJemRsa3aoMn3A9oCJ9h"
+        ],
+        "asm": "OP_DUP OP_HASH160 42343a3858da2650dbc9b7c0831cae3efebad5d0 OP_EQUALVERIFY OP_CHECKSIG",
+        "hex": "76a91442343a3858da2650dbc9b7c0831cae3efebad5d088ac",
+        "reqSigs": 1,
+        "type": "ScriptTypes(name\u003dpubkeyhash)"
+      },
+      "time": 1493058071000,
+      "txType": "TRANSFER_BSQ",
+      "txTypeDisplayString": "Transfer BSQ"
+    },
+    {
+      "txVersion": "1",
+      "txId": "053f3e0e9b2a91049f9bdd65f1c73c0a3dfb87ca48792fd6db173cc6be1d1f86",
+      "outputIndex": 1,
+      "bsqAmount": 9959000,
+      "btcAmount": 0,
+      "height": 1119793,
+      "isVerified": true,
+      "burntFee": 0,
+      "address": "mpTdHxvhT8jwLkhfrFYJSFTyr7cnb87pm3",
+      "scriptPubKey": {
+        "addresses": [
+          "mpTdHxvhT8jwLkhfrFYJSFTyr7cnb87pm3"
+        ],
+        "asm": "OP_DUP OP_HASH160 621805c1b3ecf3a782db34dd4e8d592b776a7dd1 OP_EQUALVERIFY OP_CHECKSIG",
+        "hex": "76a914621805c1b3ecf3a782db34dd4e8d592b776a7dd188ac",
+        "reqSigs": 1,
+        "type": "ScriptTypes(name\u003dpubkeyhash)"
+      },
+      "time": 1493058071000,
+      "txType": "TRANSFER_BSQ",
+      "txTypeDisplayString": "Transfer BSQ"
+    },
+    {
+      "txVersion": "1",
+      "txId": "053f3e0e9b2a91049f9bdd65f1c73c0a3dfb87ca48792fd6db173cc6be1d1f86",
+      "outputIndex": 2,
+      "bsqAmount": 0,
+      "btcAmount": 52992680,
+      "height": 1119793,
+      "isVerified": false,
+      "burntFee": 0,
+      "address": "mr1hJWZMCmbrMsNtNZbEKaEbCQD7GEQimP",
+      "scriptPubKey": {
+        "addresses": [
+          "mr1hJWZMCmbrMsNtNZbEKaEbCQD7GEQimP"
+        ],
+        "asm": "OP_DUP OP_HASH160 7320ce515e5c1c3ecda2008b5f08fcb10a8f31ef OP_EQUALVERIFY OP_CHECKSIG",
+        "hex": "76a9147320ce515e5c1c3ecda2008b5f08fcb10a8f31ef88ac",
+        "reqSigs": 1,
+        "type": "ScriptTypes(name\u003dpubkeyhash)"
+      },
+      "time": 1493058071000,
+      "txType": "TRANSFER_BSQ",
+      "txTypeDisplayString": "Transfer BSQ"
+    }
+  ],
+  "txType": "TRANSFER_BSQ",
+  "txTypeDisplayString": "Transfer BSQ",
+  "burntFee": 0
+}

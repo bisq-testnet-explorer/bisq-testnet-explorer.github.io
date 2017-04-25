@@ -1,0 +1,23 @@
+{
+  "txVersion": "1",
+  "txId": "bc0930f13cc35afe303b23d69ec4f63fdf2a4533de912c4bdab87401115ccd60",
+  "outputIndex": 2,
+  "bsqAmount": 0,
+  "btcAmount": 6150000,
+  "height": 1119815,
+  "isVerified": false,
+  "burntFee": 0,
+  "address": "myUVGx2iUEaB1rRBmZs7tNvNtx9cnYNA89",
+  "scriptPubKey": {
+    "addresses": [
+      "myUVGx2iUEaB1rRBmZs7tNvNtx9cnYNA89"
+    ],
+    "asm": "OP_DUP OP_HASH160 c4fae0b916cfa6cdc3eba599757d8c090e9f7db8 OP_EQUALVERIFY OP_CHECKSIG",
+    "hex": "76a914c4fae0b916cfa6cdc3eba599757d8c090e9f7db888ac",
+    "reqSigs": 1,
+    "type": "ScriptTypes(name\u003dpubkeyhash)"
+  },
+  "time": 1493076861000,
+  "txType": "TRANSFER_BSQ",
+  "txTypeDisplayString": "Transfer BSQ"
+}
