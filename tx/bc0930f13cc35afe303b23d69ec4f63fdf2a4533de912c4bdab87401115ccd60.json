@@ -41,6 +41,11 @@
         "reqSigs": 1,
         "type": "ScriptTypes(name\u003dpubkeyhash)"
       },
+      "spentInfo": {
+        "height": 1119952,
+        "inputIndex": 2,
+        "txId": "0bbe96d6629be666958fe52e1c17a2088de841962fc21607a9937c6c4f8b0160"
+      },
       "time": 1493076861000,
       "txType": "TRANSFER_BSQ",
       "txTypeDisplayString": "Transfer BSQ"
@@ -63,6 +68,11 @@
         "hex": "76a914e29d87f50c2f4cec7d7ad714a14e5d3be7c7453988ac",
         "reqSigs": 1,
         "type": "ScriptTypes(name\u003dpubkeyhash)"
+      },
+      "spentInfo": {
+        "height": 1119952,
+        "inputIndex": 1,
+        "txId": "0bbe96d6629be666958fe52e1c17a2088de841962fc21607a9937c6c4f8b0160"
       },
       "time": 1493076861000,
       "txType": "TRANSFER_BSQ",

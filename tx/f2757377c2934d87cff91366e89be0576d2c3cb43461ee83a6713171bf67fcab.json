@@ -34,6 +34,11 @@
         "reqSigs": 1,
         "type": "ScriptTypes(name\u003dpubkeyhash)"
       },
+      "spentInfo": {
+        "height": 1119952,
+        "inputIndex": 5,
+        "txId": "0bbe96d6629be666958fe52e1c17a2088de841962fc21607a9937c6c4f8b0160"
+      },
       "time": 1493107488000,
       "txType": "TRANSFER_BSQ",
       "txTypeDisplayString": "Transfer BSQ"

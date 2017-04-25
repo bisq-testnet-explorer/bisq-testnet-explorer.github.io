@@ -1,0 +1,172 @@
+{
+  "txVersion": "1",
+  "id": "c2f5b6cbcb1d666eb7005ddfb0a168dfe889e98b24679b30214da1fe01bc5d02",
+  "blockHeight": 1119949,
+  "blockHash": "0000000000000631a4814004b47795cdd5b54c6689c4b641dd3871e18ad59a5c",
+  "time": 1493158754000,
+  "inputs": [
+    {
+      "spendingTxOutputIndex": 1,
+      "spendingTxId": "2c37daf0decb6b43e3b80ee88ae396539ec7e82932abb4af47fe29b1d90b5275",
+      "bsqAmount": 30000,
+      "isVerified": true,
+      "address": "mxkrn4FSG5MGwrwWE6KkkYxnSBdEg8Tehh",
+      "time": 1493158754000
+    },
+    {
+      "spendingTxOutputIndex": 2,
+      "spendingTxId": "2c37daf0decb6b43e3b80ee88ae396539ec7e82932abb4af47fe29b1d90b5275",
+      "bsqAmount": 40000,
+      "isVerified": true,
+      "address": "mz7ERXEDEGvXqrdHmrGTeqWFS8qnGY1ydv",
+      "time": 1493158754000
+    },
+    {
+      "spendingTxOutputIndex": 3,
+      "spendingTxId": "2c37daf0decb6b43e3b80ee88ae396539ec7e82932abb4af47fe29b1d90b5275",
+      "bsqAmount": 0,
+      "isVerified": false,
+      "time": 1493158754000
+    }
+  ],
+  "outputs": [
+    {
+      "txVersion": "1",
+      "txId": "c2f5b6cbcb1d666eb7005ddfb0a168dfe889e98b24679b30214da1fe01bc5d02",
+      "outputIndex": 0,
+      "bsqAmount": 10000,
+      "btcAmount": 0,
+      "height": 1119949,
+      "isVerified": true,
+      "burntFee": 1000,
+      "address": "n4MR8rJpYbYvADnnnzfkYYiKNvCGY5Y2kV",
+      "scriptPubKey": {
+        "addresses": [
+          "n4MR8rJpYbYvADnnnzfkYYiKNvCGY5Y2kV"
+        ],
+        "asm": "OP_DUP OP_HASH160 fa7d23b1036125f3dbbc4432cc76eeb48cc8e119 OP_EQUALVERIFY OP_CHECKSIG",
+        "hex": "76a914fa7d23b1036125f3dbbc4432cc76eeb48cc8e11988ac",
+        "reqSigs": 1,
+        "type": "ScriptTypes(name\u003dpubkeyhash)"
+      },
+      "spentInfo": {
+        "height": 1119952,
+        "inputIndex": 13,
+        "txId": "0bbe96d6629be666958fe52e1c17a2088de841962fc21607a9937c6c4f8b0160"
+      },
+      "time": 1493158754000,
+      "txType": "TRANSFER_BSQ",
+      "txTypeDisplayString": "Transfer BSQ"
+    },
+    {
+      "txVersion": "1",
+      "txId": "c2f5b6cbcb1d666eb7005ddfb0a168dfe889e98b24679b30214da1fe01bc5d02",
+      "outputIndex": 1,
+      "bsqAmount": 19000,
+      "btcAmount": 0,
+      "height": 1119949,
+      "isVerified": true,
+      "burntFee": 1000,
+      "address": "n4MR8rJpYbYvADnnnzfkYYiKNvCGY5Y2kV",
+      "scriptPubKey": {
+        "addresses": [
+          "n4MR8rJpYbYvADnnnzfkYYiKNvCGY5Y2kV"
+        ],
+        "asm": "OP_DUP OP_HASH160 fa7d23b1036125f3dbbc4432cc76eeb48cc8e119 OP_EQUALVERIFY OP_CHECKSIG",
+        "hex": "76a914fa7d23b1036125f3dbbc4432cc76eeb48cc8e11988ac",
+        "reqSigs": 1,
+        "type": "ScriptTypes(name\u003dpubkeyhash)"
+      },
+      "spentInfo": {
+        "height": 1119952,
+        "inputIndex": 12,
+        "txId": "0bbe96d6629be666958fe52e1c17a2088de841962fc21607a9937c6c4f8b0160"
+      },
+      "time": 1493158754000,
+      "txType": "TRANSFER_BSQ",
+      "txTypeDisplayString": "Transfer BSQ"
+    },
+    {
+      "txVersion": "1",
+      "txId": "c2f5b6cbcb1d666eb7005ddfb0a168dfe889e98b24679b30214da1fe01bc5d02",
+      "outputIndex": 2,
+      "bsqAmount": 20000,
+      "btcAmount": 0,
+      "height": 1119949,
+      "isVerified": true,
+      "burntFee": 1000,
+      "address": "n4MR8rJpYbYvADnnnzfkYYiKNvCGY5Y2kV",
+      "scriptPubKey": {
+        "addresses": [
+          "n4MR8rJpYbYvADnnnzfkYYiKNvCGY5Y2kV"
+        ],
+        "asm": "OP_DUP OP_HASH160 fa7d23b1036125f3dbbc4432cc76eeb48cc8e119 OP_EQUALVERIFY OP_CHECKSIG",
+        "hex": "76a914fa7d23b1036125f3dbbc4432cc76eeb48cc8e11988ac",
+        "reqSigs": 1,
+        "type": "ScriptTypes(name\u003dpubkeyhash)"
+      },
+      "spentInfo": {
+        "height": 1119952,
+        "inputIndex": 10,
+        "txId": "0bbe96d6629be666958fe52e1c17a2088de841962fc21607a9937c6c4f8b0160"
+      },
+      "time": 1493158754000,
+      "txType": "TRANSFER_BSQ",
+      "txTypeDisplayString": "Transfer BSQ"
+    },
+    {
+      "txVersion": "1",
+      "txId": "c2f5b6cbcb1d666eb7005ddfb0a168dfe889e98b24679b30214da1fe01bc5d02",
+      "outputIndex": 3,
+      "bsqAmount": 20000,
+      "btcAmount": 0,
+      "height": 1119949,
+      "isVerified": true,
+      "burntFee": 1000,
+      "address": "n4MR8rJpYbYvADnnnzfkYYiKNvCGY5Y2kV",
+      "scriptPubKey": {
+        "addresses": [
+          "n4MR8rJpYbYvADnnnzfkYYiKNvCGY5Y2kV"
+        ],
+        "asm": "OP_DUP OP_HASH160 fa7d23b1036125f3dbbc4432cc76eeb48cc8e119 OP_EQUALVERIFY OP_CHECKSIG",
+        "hex": "76a914fa7d23b1036125f3dbbc4432cc76eeb48cc8e11988ac",
+        "reqSigs": 1,
+        "type": "ScriptTypes(name\u003dpubkeyhash)"
+      },
+      "spentInfo": {
+        "height": 1119952,
+        "inputIndex": 11,
+        "txId": "0bbe96d6629be666958fe52e1c17a2088de841962fc21607a9937c6c4f8b0160"
+      },
+      "time": 1493158754000,
+      "txType": "TRANSFER_BSQ",
+      "txTypeDisplayString": "Transfer BSQ"
+    },
+    {
+      "txVersion": "1",
+      "txId": "c2f5b6cbcb1d666eb7005ddfb0a168dfe889e98b24679b30214da1fe01bc5d02",
+      "outputIndex": 4,
+      "bsqAmount": 0,
+      "btcAmount": 21000,
+      "height": 1119949,
+      "isVerified": false,
+      "burntFee": 1000,
+      "address": "mfsJ4U7sSmduBB3FSfE6HzbcFY6vvUKYm5",
+      "scriptPubKey": {
+        "addresses": [
+          "mfsJ4U7sSmduBB3FSfE6HzbcFY6vvUKYm5"
+        ],
+        "asm": "OP_DUP OP_HASH160 03d8d1a1279c65ae109c22ffd7c0ff441350502d OP_EQUALVERIFY OP_CHECKSIG",
+        "hex": "76a91403d8d1a1279c65ae109c22ffd7c0ff441350502d88ac",
+        "reqSigs": 1,
+        "type": "ScriptTypes(name\u003dpubkeyhash)"
+      },
+      "time": 1493158754000,
+      "txType": "TRANSFER_BSQ",
+      "txTypeDisplayString": "Transfer BSQ"
+    }
+  ],
+  "txType": "TRANSFER_BSQ",
+  "txTypeDisplayString": "Transfer BSQ",
+  "burntFee": 1000
+}

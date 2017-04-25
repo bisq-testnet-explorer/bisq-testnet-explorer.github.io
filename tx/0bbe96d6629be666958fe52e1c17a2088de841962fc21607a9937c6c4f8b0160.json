@@ -1,0 +1,184 @@
+{
+  "txVersion": "1",
+  "id": "0bbe96d6629be666958fe52e1c17a2088de841962fc21607a9937c6c4f8b0160",
+  "blockHeight": 1119952,
+  "blockHash": "000000000000077c31b257cec031f63a9375b69b7ba250b44810efde271654b9",
+  "time": 1493160250000,
+  "inputs": [
+    {
+      "spendingTxOutputIndex": 1,
+      "spendingTxId": "8d6f2a27ae3469e99fb147aa5112cf4cb273778512c73b17ae68d7a70b7755a8",
+      "bsqAmount": 39845000,
+      "isVerified": true,
+      "address": "mq7V71swhccgHRUQrJ8yaASJZgJze6TL44",
+      "time": 1493160250000
+    },
+    {
+      "spendingTxOutputIndex": 1,
+      "spendingTxId": "bc0930f13cc35afe303b23d69ec4f63fdf2a4533de912c4bdab87401115ccd60",
+      "bsqAmount": 6000000,
+      "isVerified": true,
+      "address": "n2BBirnfzE49fHq2VMNuGvjaA67rsvM15T",
+      "time": 1493160250000
+    },
+    {
+      "spendingTxOutputIndex": 0,
+      "spendingTxId": "bc0930f13cc35afe303b23d69ec4f63fdf2a4533de912c4bdab87401115ccd60",
+      "bsqAmount": 4000000,
+      "isVerified": true,
+      "address": "n2BBirnfzE49fHq2VMNuGvjaA67rsvM15T",
+      "time": 1493160250000
+    },
+    {
+      "spendingTxOutputIndex": 0,
+      "spendingTxId": "9a94106d94110973ee1ebd61053488e69f33237c8ad3ace3ef7f5210d7a544c6",
+      "bsqAmount": 2000000,
+      "isVerified": true,
+      "address": "n2PoDJvLh8FZnNKSjZfKMReuz5zgoAbx9X",
+      "time": 1493160250000
+    },
+    {
+      "spendingTxOutputIndex": 1,
+      "spendingTxId": "415c6bc5b522cb7bcf1bfa3173c7755e1ba9ec3bdd1480af4b79d45f21618d2e",
+      "bsqAmount": 10749,
+      "isVerified": true,
+      "address": "n1HDAmaBQB5VFMqj36M3F3YKwZx5LQXuXD",
+      "time": 1493160250000
+    },
+    {
+      "spendingTxOutputIndex": 0,
+      "spendingTxId": "f2757377c2934d87cff91366e89be0576d2c3cb43461ee83a6713171bf67fcab",
+      "bsqAmount": 30000,
+      "isVerified": true,
+      "address": "mstwinFypmhMksD9W56dDce42t4BTxXeRD",
+      "time": 1493160250000
+    },
+    {
+      "spendingTxOutputIndex": 0,
+      "spendingTxId": "2c37daf0decb6b43e3b80ee88ae396539ec7e82932abb4af47fe29b1d90b5275",
+      "bsqAmount": 20000,
+      "isVerified": true,
+      "address": "mqpjrmie1MNxWdNob32UcUKZbBxv1tDdw9",
+      "time": 1493160250000
+    },
+    {
+      "spendingTxOutputIndex": 0,
+      "spendingTxId": "415c6bc5b522cb7bcf1bfa3173c7755e1ba9ec3bdd1480af4b79d45f21618d2e",
+      "bsqAmount": 3001,
+      "isVerified": true,
+      "address": "n1HDAmaBQB5VFMqj36M3F3YKwZx5LQXuXD",
+      "time": 1493160250000
+    },
+    {
+      "spendingTxOutputIndex": 0,
+      "spendingTxId": "f10c8c32dc9d3c72ceb20a20802192e4dccb5468089182c1d24ed159a989208e",
+      "bsqAmount": 3000,
+      "isVerified": true,
+      "address": "msP5nGAEsTdCh5JMGBjwCRfgwdJMUMhtTk",
+      "time": 1493160250000
+    },
+    {
+      "spendingTxOutputIndex": 0,
+      "spendingTxId": "31623f922dd2e7d8bf3badc70741b50fcc143e621d271f59f7e785efcb04162b",
+      "bsqAmount": 5000,
+      "isVerified": true,
+      "address": "mmSw4WwUNf7x9hKGXFvEmYuWtinn9XUyzm",
+      "time": 1493160250000
+    },
+    {
+      "spendingTxOutputIndex": 2,
+      "spendingTxId": "c2f5b6cbcb1d666eb7005ddfb0a168dfe889e98b24679b30214da1fe01bc5d02",
+      "bsqAmount": 20000,
+      "isVerified": true,
+      "address": "n4MR8rJpYbYvADnnnzfkYYiKNvCGY5Y2kV",
+      "time": 1493160250000
+    },
+    {
+      "spendingTxOutputIndex": 3,
+      "spendingTxId": "c2f5b6cbcb1d666eb7005ddfb0a168dfe889e98b24679b30214da1fe01bc5d02",
+      "bsqAmount": 20000,
+      "isVerified": true,
+      "address": "n4MR8rJpYbYvADnnnzfkYYiKNvCGY5Y2kV",
+      "time": 1493160250000
+    },
+    {
+      "spendingTxOutputIndex": 1,
+      "spendingTxId": "c2f5b6cbcb1d666eb7005ddfb0a168dfe889e98b24679b30214da1fe01bc5d02",
+      "bsqAmount": 19000,
+      "isVerified": true,
+      "address": "n4MR8rJpYbYvADnnnzfkYYiKNvCGY5Y2kV",
+      "time": 1493160250000
+    },
+    {
+      "spendingTxOutputIndex": 0,
+      "spendingTxId": "c2f5b6cbcb1d666eb7005ddfb0a168dfe889e98b24679b30214da1fe01bc5d02",
+      "bsqAmount": 10000,
+      "isVerified": true,
+      "address": "n4MR8rJpYbYvADnnnzfkYYiKNvCGY5Y2kV",
+      "time": 1493160250000
+    },
+    {
+      "spendingTxOutputIndex": 2,
+      "spendingTxId": "561fc5b3dcb1ce77a2cd6f0aba04cea06b415f0c76d4907836e6da58f2dfcec9",
+      "bsqAmount": 0,
+      "isVerified": false,
+      "time": 1493160250000
+    }
+  ],
+  "outputs": [
+    {
+      "txVersion": "1",
+      "txId": "0bbe96d6629be666958fe52e1c17a2088de841962fc21607a9937c6c4f8b0160",
+      "outputIndex": 0,
+      "bsqAmount": 51985750,
+      "btcAmount": 0,
+      "height": 1119952,
+      "isVerified": true,
+      "burntFee": 0,
+      "address": "miAmXUiQLUcfgCzqf9h2uLwMxCG2RhXvSR",
+      "scriptPubKey": {
+        "addresses": [
+          "miAmXUiQLUcfgCzqf9h2uLwMxCG2RhXvSR"
+        ],
+        "asm": "OP_DUP OP_HASH160 1d1711a95740d1e465a745bd4788a0f0c3e9e6ee OP_EQUALVERIFY OP_CHECKSIG",
+        "hex": "76a9141d1711a95740d1e465a745bd4788a0f0c3e9e6ee88ac",
+        "reqSigs": 1,
+        "type": "ScriptTypes(name\u003dpubkeyhash)"
+      },
+      "spentInfo": {
+        "height": 1119955,
+        "inputIndex": 0,
+        "txId": "934cdadf3c165b2f7b8bc404fa50cb55da37b1d92293339525a0b41ad1929dbd"
+      },
+      "time": 1493160250000,
+      "txType": "TRANSFER_BSQ",
+      "txTypeDisplayString": "Transfer BSQ"
+    },
+    {
+      "txVersion": "1",
+      "txId": "0bbe96d6629be666958fe52e1c17a2088de841962fc21607a9937c6c4f8b0160",
+      "outputIndex": 1,
+      "bsqAmount": 0,
+      "btcAmount": 31800860,
+      "height": 1119952,
+      "isVerified": false,
+      "burntFee": 0,
+      "address": "mn5ZDq9YqGhY8WyJJndzmnzYuSnF9wPuHt",
+      "scriptPubKey": {
+        "addresses": [
+          "mn5ZDq9YqGhY8WyJJndzmnzYuSnF9wPuHt"
+        ],
+        "asm": "OP_DUP OP_HASH160 47fb38a26dc4d2841b414e6b503bab4434c04a00 OP_EQUALVERIFY OP_CHECKSIG",
+        "hex": "76a91447fb38a26dc4d2841b414e6b503bab4434c04a0088ac",
+        "reqSigs": 1,
+        "type": "ScriptTypes(name\u003dpubkeyhash)"
+      },
+      "time": 1493160250000,
+      "txType": "TRANSFER_BSQ",
+      "txTypeDisplayString": "Transfer BSQ"
+    }
+  ],
+  "txType": "TRANSFER_BSQ",
+  "txTypeDisplayString": "Transfer BSQ",
+  "burntFee": 0
+}
