@@ -1,0 +1,23 @@
+{
+  "txVersion": "1",
+  "txId": "70a40e1b3f933ece3e530e9fba4d9a43fe93071d5bf8910937975349884a7199",
+  "outputIndex": 0,
+  "bsqAmount": 51543250,
+  "btcAmount": 0,
+  "height": 1120090,
+  "isVerified": true,
+  "burntFee": 1000,
+  "address": "mmxUKgorC6sJDLDEMvLt3HM6bt4qBAUDC1",
+  "scriptPubKey": {
+    "addresses": [
+      "mmxUKgorC6sJDLDEMvLt3HM6bt4qBAUDC1"
+    ],
+    "asm": "OP_DUP OP_HASH160 46a4385153e2ee17abf533e1e5a904ebfcdbc39b OP_EQUALVERIFY OP_CHECKSIG",
+    "hex": "76a91446a4385153e2ee17abf533e1e5a904ebfcdbc39b88ac",
+    "reqSigs": 1,
+    "type": "ScriptTypes(name\u003dpubkeyhash)"
+  },
+  "time": 1493226962000,
+  "txType": "COMPENSATION_REQUEST",
+  "txTypeDisplayString": "Compensation request"
+}
