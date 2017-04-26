@@ -1,0 +1,75 @@
+{
+  "txVersion": "1",
+  "id": "787d86a039b7022271308d56e434be58b82fb33b703bde4a7735ab76a6df03a5",
+  "blockHeight": 1120049,
+  "blockHash": "000000007d9e5f8901b99607107b5f8a094e47e4d2567f37790769abc3268728",
+  "time": 1493198229000,
+  "inputs": [
+    {
+      "spendingTxOutputIndex": 0,
+      "spendingTxId": "ee10a2309ad49d0f94fe10e0bb55739c59cd987b836225d716ff9dd354147df0",
+      "bsqAmount": 0,
+      "isVerified": false,
+      "time": 1493198229000
+    },
+    {
+      "spendingTxOutputIndex": 0,
+      "spendingTxId": "efde3108d78d93f4f584b8a49f281c6e3221b5e8665c183be58944bab9f5548e",
+      "bsqAmount": 2750,
+      "isVerified": true,
+      "address": "mm33baFNe9EZFvHeEXfdJy7H4Wwd2gqwkx",
+      "time": 1493198229000
+    }
+  ],
+  "outputs": [
+    {
+      "txVersion": "1",
+      "txId": "787d86a039b7022271308d56e434be58b82fb33b703bde4a7735ab76a6df03a5",
+      "outputIndex": 0,
+      "bsqAmount": 0,
+      "btcAmount": 1000000,
+      "height": 1120049,
+      "isVerified": false,
+      "burntFee": 2750,
+      "address": "mhZdqJKNdaptWnbKsMvP8WLHHwDm2C2XaE",
+      "scriptPubKey": {
+        "addresses": [
+          "mhZdqJKNdaptWnbKsMvP8WLHHwDm2C2XaE"
+        ],
+        "asm": "OP_DUP OP_HASH160 167216b81ab8556a2d5247e2ac0489038548be42 OP_EQUALVERIFY OP_CHECKSIG",
+        "hex": "76a914167216b81ab8556a2d5247e2ac0489038548be4288ac",
+        "reqSigs": 1,
+        "type": "ScriptTypes(name\u003dpubkeyhash)"
+      },
+      "time": 1493198229000,
+      "txType": "PAY_TRADE_FEE",
+      "txTypeDisplayString": "Pay trade fee"
+    },
+    {
+      "txVersion": "1",
+      "txId": "787d86a039b7022271308d56e434be58b82fb33b703bde4a7735ab76a6df03a5",
+      "outputIndex": 1,
+      "bsqAmount": 0,
+      "btcAmount": 1000000,
+      "height": 1120049,
+      "isVerified": false,
+      "burntFee": 2750,
+      "address": "mhuabJCfPk4E7mB8UjtRce6iefLfmJLDv5",
+      "scriptPubKey": {
+        "addresses": [
+          "mhuabJCfPk4E7mB8UjtRce6iefLfmJLDv5"
+        ],
+        "asm": "OP_DUP OP_HASH160 1a37b3c28032fcdf064463b055b43349ae892363 OP_EQUALVERIFY OP_CHECKSIG",
+        "hex": "76a9141a37b3c28032fcdf064463b055b43349ae89236388ac",
+        "reqSigs": 1,
+        "type": "ScriptTypes(name\u003dpubkeyhash)"
+      },
+      "time": 1493198229000,
+      "txType": "PAY_TRADE_FEE",
+      "txTypeDisplayString": "Pay trade fee"
+    }
+  ],
+  "txType": "PAY_TRADE_FEE",
+  "txTypeDisplayString": "Pay trade fee",
+  "burntFee": 2750
+}

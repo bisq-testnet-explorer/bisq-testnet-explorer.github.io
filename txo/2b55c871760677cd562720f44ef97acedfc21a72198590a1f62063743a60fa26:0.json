@@ -1,0 +1,28 @@
+{
+  "txVersion": "1",
+  "txId": "2b55c871760677cd562720f44ef97acedfc21a72198590a1f62063743a60fa26",
+  "outputIndex": 0,
+  "bsqAmount": 33000,
+  "btcAmount": 0,
+  "height": 1120059,
+  "isVerified": true,
+  "burntFee": 0,
+  "address": "mriM69sAze2wV7aEmYTDYjPag8uznq9PmB",
+  "scriptPubKey": {
+    "addresses": [
+      "mriM69sAze2wV7aEmYTDYjPag8uznq9PmB"
+    ],
+    "asm": "OP_DUP OP_HASH160 7ad0fcc39e1dd330f1bdb242b732eb384e53d475 OP_EQUALVERIFY OP_CHECKSIG",
+    "hex": "76a9147ad0fcc39e1dd330f1bdb242b732eb384e53d47588ac",
+    "reqSigs": 1,
+    "type": "ScriptTypes(name\u003dpubkeyhash)"
+  },
+  "spentInfo": {
+    "height": 1120070,
+    "inputIndex": 0,
+    "txId": "7de850833be01037255eaf8375b243c063808c601d8fa9f857cf7bbe1b8d3f55"
+  },
+  "time": 1493205968000,
+  "txType": "TRANSFER_BSQ",
+  "txTypeDisplayString": "Transfer BSQ"
+}

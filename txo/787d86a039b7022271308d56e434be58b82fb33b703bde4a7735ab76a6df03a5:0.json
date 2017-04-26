@@ -1,0 +1,23 @@
+{
+  "txVersion": "1",
+  "txId": "787d86a039b7022271308d56e434be58b82fb33b703bde4a7735ab76a6df03a5",
+  "outputIndex": 0,
+  "bsqAmount": 0,
+  "btcAmount": 1000000,
+  "height": 1120049,
+  "isVerified": false,
+  "burntFee": 2750,
+  "address": "mhZdqJKNdaptWnbKsMvP8WLHHwDm2C2XaE",
+  "scriptPubKey": {
+    "addresses": [
+      "mhZdqJKNdaptWnbKsMvP8WLHHwDm2C2XaE"
+    ],
+    "asm": "OP_DUP OP_HASH160 167216b81ab8556a2d5247e2ac0489038548be42 OP_EQUALVERIFY OP_CHECKSIG",
+    "hex": "76a914167216b81ab8556a2d5247e2ac0489038548be4288ac",
+    "reqSigs": 1,
+    "type": "ScriptTypes(name\u003dpubkeyhash)"
+  },
+  "time": 1493198229000,
+  "txType": "PAY_TRADE_FEE",
+  "txTypeDisplayString": "Pay trade fee"
+}
